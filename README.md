@@ -15,5 +15,7 @@
 
 
 Результат:
- Brynza A.A., Korlyakova M.O. Approach to forecasting behavior of dynamic system beyond borders of education// Studies in computational intelligence. 2020. Т. 856. С. 367-374. 
- Test results of the digital active system for dynamic forces reduction and pressure pulsations damping in pipeline compensators 	Kiryukhin A. V; Milman O.O.; Ptakhin A.V.; Korljakova M.O. 	International Journal of Civil Engineering and Technology 	Journal Article 	09766308 	2018 	2 -s2.0- 85055837130
+
+ 1) Brynza A.A., Korlyakova M.O. Approach to forecasting behavior of dynamic system beyond borders of education// Studies in computational intelligence. 2020. Т. 856. С. 367-374. 
+ 
+ 2) Test results of the digital active system for dynamic forces reduction and pressure pulsations damping in pipeline compensators 	Kiryukhin A. V; Milman O.O.; Ptakhin A.V.; Korljakova M.O. 	International Journal of Civil Engineering and Technology 	Journal Article 	09766308 	2018 	2 -s2.0- 85055837130
